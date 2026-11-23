@@ -1,0 +1,32 @@
+/* Style général */
+.home-page {
+  min-height: 100vh;
+  background-color: #3b0907;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+}
+
+/* Style des trois parties */
+.presentation,
+.pizzas,
+.create-pizza {
+  padding: 25px;
+  border: 1px solid #8b4a28;
+  border-radius: 12px;
+  background-color: #4a100c;
+}
+
+/* Titres */
+h1, h2 {
+  color: #ffb000;
+}
+
+/* Paragraphes */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
