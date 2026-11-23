@@ -28,3 +28,12 @@ function App() {
 
 export default App;
 
+function App() {
+  return (
+    <div>
+      <PizzaList />
+    </div>
+  );
+}
+
+export default App;
