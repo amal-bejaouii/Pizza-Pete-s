@@ -1,8 +1,8 @@
 /* Style général */
 .home-page {
   min-height: 100vh;
-  background-color: #e4221b;
-  color: rgb(27, 26, 26);
+  background-color: #3b0907;
+  color: white;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
